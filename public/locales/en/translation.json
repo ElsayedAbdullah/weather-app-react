@@ -1,0 +1,16 @@
+{
+  "egypt": "Egypt",
+  "jordan": "Jordan",
+  "usa": "USA",
+  "min": "min",
+  "max": "max",
+  "clear sky": "clear sky",
+  "few clouds": "few clouds",
+  "scattered clouds": "scattered clouds",
+  "broken clouds": "broken clouds",
+  "shower rain": "shower rain",
+  "rain": "rain",
+  "thunderstorm": "thunderstorm",
+  "snow": "snow",
+  "mist": "mist"
+}
